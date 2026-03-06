@@ -166,6 +166,9 @@ Portat **linie cu linie**, inclusiv toate regex-urile:
 | `/quota` | GET | Info quota API |
 
 ---
+### suport 
+.[Donează cât dorești]..(https://revolut.me/ionutrevoo).
+---
 
 ## 📄 Licență
 
