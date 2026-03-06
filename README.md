@@ -167,7 +167,8 @@ Portat **linie cu linie**, inclusiv toate regex-urile:
 
 ---
 ### suport 
-.[Donează cât dorești]_(https://revolut.me/ionutrevoo).
+Donează cât dorești
+https://revolut.me/ionutrevoo
 ---
 
 ## 📄 Licență
